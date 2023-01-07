@@ -10,7 +10,6 @@ def exit():
     print("..")
     time.sleep(.5)    
     print("...")
-    sys.exit()
 
 
 
